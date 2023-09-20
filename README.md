@@ -1,7 +1,7 @@
 
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="35"/>, I'm Jennifer</h1>
 
-- 🔭 I’m currently working [Style Swap](https://github.com/jennlangley/style-swap)
+- 🔭 I’m currently working on [Style Swap](https://github.com/jennlangley/style-swap)
 - 📚 I’m currently learning TypeScript
 - 😀 I like to read, hike, and play games in my free time
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jennifer-langley/)

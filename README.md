@@ -6,7 +6,6 @@
 - 😀 I like to read, hike, and play games in my free time
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jennifer-langley/)
 
-<br>
   
 ## 🛠️ Languages and Tools
 

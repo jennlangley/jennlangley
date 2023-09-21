@@ -27,7 +27,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org" target="_blank"> 

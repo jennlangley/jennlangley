@@ -1,5 +1,6 @@
 
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="35"/>, I'm Jennifer</h1>
+# Hi! <img src="https://github.com/jennlangley/jennlangley/assets/106412948/92ceece3-5afd-45a2-92e6-ac5355c38877" alt="wave" width="45px" /> I'm Jennifer
+
 
 - 🔭 I’m currently working on [Style Swap](https://github.com/jennlangley/style-swap)
 - 📚 I’m currently learning TypeScript

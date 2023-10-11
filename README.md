@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jennifer</h1>
-<h3 align="center">A full-stack developer</h3>
+<h1 align="left">Hi 👋, I'm Jennifer</h1>
+<h3 align="left">A full-stack developer</h3>
 
 - 🔭 I’m currently working on [Style Swap](https://github.com/jennlangley/style-swap)
-
 - 📫 How to reach me **jlangley1019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

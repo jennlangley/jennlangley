@@ -2,7 +2,7 @@
 
 - 👩‍💻 I’m currently working on my latest project [Style Swap](https://github.com/jennlangley/style-swap)
 - 📊 My background is in data analytics
-- - 🌱 I'm currently learning TypeScript
+- 🌱 I'm currently learning TypeScript
 -  ⚡ Fun fact: I enjoy reading, hiking, and gaming
 - 📫 How to reach me **jlangley1019@gmail.com**
 

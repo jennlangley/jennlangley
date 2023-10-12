@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jennifer</h1>
 
-- 👩‍💻 I’m currently working on my latest project [Style Swap](https://github.com/jennlangley/style-swap)
+- 👩‍💻 I'm a full-stack developer
+- 🔭 I’m currently working on my latest project [Style Swap](https://github.com/jennlangley/style-swap)
 - 📊 My background is in data analytics
 - 🌱 I'm currently learning TypeScript
 -  ⚡ Fun fact: I enjoy reading, hiking, and gaming

@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jennifer-langley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jennifer-langley" height="40" width="40" /></a>
-<a href="mailto:jlangley1019@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="jlangley1019@gmail.com" height="50" /></a>
+<a href="https://linkedin.com/in/jennifer-langley" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jennifer-langley" height="40" width="40" /></a>
+<a href="mailto:jlangley1019@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="jlangley1019@gmail.com" height="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

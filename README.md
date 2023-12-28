@@ -3,7 +3,6 @@
 - 👩‍💻 I’m currently working on my latest project [Style Swap](https://github.com/jennlangley/style-swap)
 - 📊 My background is in data analytics
 - 🌱 I'm currently learning Java
-- 📫 How to reach me **jlangley1019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

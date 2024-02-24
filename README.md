@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jennifer</h1>
+<h1 align="left">Hi 👋, I'm Jennifer!</h1>
 
 - 📊 My background is in data analytics
 - 🌱 I'm currently learning Java
